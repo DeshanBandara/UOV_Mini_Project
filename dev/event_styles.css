@@ -1,0 +1,114 @@
+/* --- Event Styles--- */
+
+.event-nav {
+    margin-bottom: 30px;
+    text-align: center;
+    padding: 10px 10px 10px 100px;
+    min-height: 45px;
+    position: relative;
+    background-color: #350339;
+    border-bottom: solid 5px #fcb900;
+    text-decoration: none;
+    text-align: left;
+}
+
+.event-nav a{
+    text-decoration: none;
+    color: #ffffff;
+}
+.event-nav a:hover{
+    color: #fcb900;
+}
+.container{
+    position: relative;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background: #ffffff;
+    border: 1px solid silver;
+    border-radius: 5px;
+}
+.event-form{
+    padding: 20px 40px;
+    align-items: center;
+}
+.event-form h3{
+    text-align: center;
+    font-weight: bold;
+    color: #210723;
+}
+.event-form img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 100px;
+    width: 100px;
+}
+.event-form h5{
+    text-align: center;
+    color: #210723;
+}
+.event-form p{
+    text-align: left;
+    margin-left: 5px;
+}
+.event-form label{
+    margin-left: 5px;
+}
+.event-form input,
+.event-form select{
+    width: 100%;
+    border-radius: 10px;
+    padding: 10px 15px;
+    font-size: 17px;
+    margin: 8px 0;
+    background: #f5ebf4;
+    border: 1px solid silver;
+}
+.event-form .btn-submit{
+    background: #1877F2;
+    color: #ffffff;
+    cursor: pointer;
+    text-transform: capitalize;
+    font-size: 20px;
+    width: 25%;
+    border: 1px solid silver;
+    border-radius: 10px;
+}
+.h-l-btn{
+    margin-bottom: 50px;
+    margin-right: 50px;
+    text-align: right;
+}
+.btn-home{
+    background: #3fde8e;
+    color: #ffffff;
+    text-transform: capitalize;
+    font-size: 20px;
+    border: 1px solid silver;
+    border-radius: 10px;
+    width: 150px;
+}
+.btn-home a {
+    text-decoration: none;
+    color: #ffffff;
+}
+.btn-logout{
+    background: crimson;
+    color: #ffffff;
+    text-transform: capitalize;
+    font-size: 20px;
+    border: 1px solid silver;
+    border-radius: 10px;
+    width: 150px;
+}
+.btn-logout a {
+    text-decoration: none;
+    color: #ffffff;
+}
+.upl-sig{
+    background: #ffffff;
+    border: 1px solid silver;
+    border-radius: 5px;
+    height: 100px;
+    width: 75px;
+}
